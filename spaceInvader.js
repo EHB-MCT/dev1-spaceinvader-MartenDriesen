@@ -19,7 +19,7 @@ function drawRectangles() {
     context.fill();
     context.stroke();
 
-    context.fillStyle = 'green';
+    context.fillStyle = '#66FF00';
     context.beginPath();
     context.rect(125, 125, 50, 50);
     context.fill();
